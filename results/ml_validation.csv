@@ -1,0 +1,2 @@
+protocol,seed,mae,rmse,r2,train_size,validation_size
+proposed,7,4.021027913877548e-05,7.903759591612678e-05,0.9659038417712502,480,120
